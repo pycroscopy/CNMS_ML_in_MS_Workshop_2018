@@ -5,6 +5,8 @@ CNMS User Meeting Workshop 2018: Machine learning in Materials Science with Pyth
 
 Welcome! This workshop will go over machine learning methods for materials science with python. The full agenda is published below. For remote participants, please click https://bluejeans.com/678595624.  
 
+The workshop will be conducted on August 15, 2018 at ORNL. The livestream begins at 9AM EDT. 
+
 To get the most out of this workshop, you may want to work along with us on your own laptop. If you do, we highly recommend that you:
 
 <b>1. Download and install the following:</b><br>
