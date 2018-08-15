@@ -1,0 +1,11 @@
+jupyter
+tabulate
+numpy
+matplotlib
+scipy
+sklearn
+scikit-image
+cvxopt
+pysptools
+
+https://github.com/kimjingu/nonnegfac-python
