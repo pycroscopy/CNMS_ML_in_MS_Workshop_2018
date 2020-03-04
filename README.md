@@ -2,8 +2,7 @@
 
 Organizers:
 
-Rama Vasudevan
-Stephen Jesse
+Rama Vasudevan, Stephen Jesse
 
 CNMS User Meeting Workshop 2018: Machine learning in Materials Science with Python
 
